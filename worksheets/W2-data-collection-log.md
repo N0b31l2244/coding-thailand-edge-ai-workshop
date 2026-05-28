@@ -10,7 +10,7 @@
 
 ## ข้อมูลทีม + Edge Impulse
 
-- **ชื่อทีม:** _________________
+- **ชื่อทีม:** ตัวBug แต่ยังสู้
 - **Edge Impulse Project URL:**
   ```
   https://studio.edgeimpulse.com/studio/XXXXX
