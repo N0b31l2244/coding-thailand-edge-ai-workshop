@@ -1,7 +1,7 @@
 <!-- workshop-header -->
 <img width="1347" height="127" alt="Coding Thailand 2026 header" src="https://github.com/user-attachments/assets/ba5cf267-f460-4fb0-b69b-c461ae061a3b" />
 
-# 🤖 Coding Thailand 2026 — Edge AI Workshop
+# 🤖 (ส่งงานในโฟเด้อส่งงานครับ)Coding Thailand 2026 — Edge AI Workshop 
 > **Day 1 Workshop Materials**
 > Arduino UNO Q × Modulino × Edge Impulse
 > Regional Coding & AI Competition — ห้อง Edge AI
