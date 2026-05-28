@@ -10,8 +10,8 @@
 
 ## ข้อมูลทีม
 
-- **ชื่อทีม:** _________________
-- **ชื่อ Prototype (working title):** _________________
+- **ชื่อทีม:** ตัวBugแต่ยังสู้
+- **ชื่อ Prototype (working title):** smart parking
 
 ---
 
